@@ -1,7 +1,7 @@
 package items.services;
 
-import items.Handlers.ObjectToStringConvertor;
-import items.Handlers.StringToObjectConvertor;
+import items.handlers.ObjectToStringConvertor;
+import items.handlers.StringToObjectConvertor;
 import items.entities.Item;
 import items.entitiesDto.ItemDto;
 import items.repositories.ItemsRepository;

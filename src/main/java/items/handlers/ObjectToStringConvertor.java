@@ -1,4 +1,4 @@
-package items.Handlers;
+package items.handlers;
 
 import org.modelmapper.AbstractConverter;
 
